@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @thevill
 - 👀 I’m interested in Penetration Testing and Coding for fun
 - 🌱 I’m currently learning various codes and coding styles
-- 📫 How to reach me - pranay.wajjala.1@gmail.com
+- 📫 How to reach me - thevill@duck.com
