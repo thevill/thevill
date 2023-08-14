@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @thevill
-- 👀 I’m interested in Penetration Testing and Coding for fun
-- 🌱 I’m currently learning various codes and coding styles
+- 👋 Hey there! I’m @thevill
+- 👀 A passionate Penetration Tester with a love for coding and creating
+- 🌱 I’m curious and always on a learning and exploring journey
 - 📫 How to reach me - thevill@duck.com
+- 🖥️ Stay connected!
