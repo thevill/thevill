@@ -8,4 +8,5 @@
           border-radius: 16px; line-height: 32px; font-size: 14px;">
     Follow on LinkedIn
 </a>
+
 - 🖥️ Stay connected!
