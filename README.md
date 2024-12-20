@@ -6,7 +6,5 @@
    style="display: block; width: 200px; height: 32px; padding: 7px; text-align: center; background-color: #0A66C2; 
           color: #ffffff; text-decoration: none !important; font-family: 'Helvetica', sans-serif; 
           border-radius: 16px; line-height: 32px; font-size: 14px;">
-    Follow on LinkedIn
-</a>
-
+    Follow on LinkedIn</a>
 - 🖥️ Stay connected!
