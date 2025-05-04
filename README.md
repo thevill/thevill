@@ -8,6 +8,6 @@
           border-radius: 16px; line-height: 32px; font-size: 14px;">
     Follow on LinkedIn</a>
 - 🖥️ Stay connected!
-- <a href="https://www.buymeacoffee.com/pranaywajjala" target="_blank" rel="noopener noreferrer">
+<a href="https://www.buymeacoffee.com/pranaywajjala" target="_blank" rel="noopener noreferrer">
       <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" 
            alt="Buy Me a Coffee" style="height: 40px;">
