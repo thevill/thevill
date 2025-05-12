@@ -8,9 +8,3 @@
           border-radius: 16px; line-height: 32px; font-size: 14px;">
     Follow on LinkedIn</a>
 - 🖥️ Stay connected!
-<a href="https://razorpay.me/@areumsec" target="_blank">
-  <button style="background:#0f9d58;color:white;padding:10px 20px;border:none;border-radius:5px;">
-    Donate via UPI (Razorpay)
-  </button>
-</a>
-
